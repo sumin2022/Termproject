@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+  newfile.cpp
+C:\Users\USER\Documents\GitHub\Termproject\termProject(수정)\termProject\newfile.cpp(227,54): warning C4312: '형식 캐스트': 'GLsizei'에서 더 큰 'GLvoid *'(으)로의 변환입니다.
+C:\Users\USER\Documents\GitHub\Termproject\termProject(수정)\termProject\newfile.cpp(282,5): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\USER\Documents\GitHub\Termproject\termProject(수정)\termProject\newfile.cpp(291,5): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  코드를 생성하고 있습니다...
+  termProject.vcxproj -> C:\Users\USER\Documents\GitHub\Termproject\termProject(수정)\x64\Debug\termProject.exe
